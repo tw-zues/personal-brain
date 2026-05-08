@@ -1,0 +1,10 @@
+{
+  "_comment": "Keyword → context file map. Keys are lowercase substrings; matching is case-insensitive. When any key appears in the user's prompt, the mapped file is surfaced as a pointer. Edit this file to add your own keyword triggers.",
+  "_example_customer": "customers/acme-corp.md",
+  "_example_venture": "ventures/my-company.md",
+  "_example_style": "preferences/writing-style.md",
+  "writing style": "preferences/writing-style.md",
+  "my voice": "preferences/writing-style.md",
+  "coding rule": "preferences/coding-rules.md",
+  "error pattern": "preferences/error-patterns.md"
+}

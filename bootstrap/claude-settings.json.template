@@ -1,0 +1,9 @@
+{
+  "_comment_1": "Copy this file to ~/.claude/settings.json on every new machine.",
+  "_comment_2": "Update pluginDirs to match where you cloned the brain on this machine.",
+  "_comment_3": "Windows: use forward slashes or escaped backslashes. macOS/Linux: ~/personal-brain works.",
+  "pluginDirs": [
+    "~/personal-brain"
+  ],
+  "effortLevel": "high"
+}

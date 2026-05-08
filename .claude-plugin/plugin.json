@@ -1,0 +1,15 @@
+{
+  "name": "personal-brain",
+  "version": "1.0.0",
+  "description": "Persistent context for AI sessions. Markdown + git, auto-syncs across machines via session hooks.",
+  "license": "MIT",
+  "commands": [],
+  "keywords": [
+    "memory",
+    "ai",
+    "sync",
+    "git",
+    "brain",
+    "context"
+  ]
+}
